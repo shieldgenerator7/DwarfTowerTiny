@@ -237,8 +237,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   testList:
-  - 
-  - 
+  - stghj
+  - sdgfh
+  - dfdgfhghggh
+  - IT WORKS AGAIN!!
 --- !u!4 &728233341
 Transform:
   m_ObjectHideFlags: 0
